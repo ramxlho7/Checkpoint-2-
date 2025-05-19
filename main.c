@@ -125,4 +125,4 @@ int main() {
 //ex 1, feito por Pedro Del Neri
 //EX 2, feito por Vitor Limeira
 //ex 3, feito por Felipe Ramalho
-//ex 4, feito por Mateus Magal
+//ex 4, feito por Mateus Magalhães
