@@ -121,3 +121,8 @@ int main() {
 }
 
 //alunos Felipe Ramalho(RM:565073), Mateus Fransisco (RM: 562119), Pedro Del Neri (RM: 562168) e Vitor Limeira(RM:565280)
+
+//ex 1, feito por Pedro Del Neri
+//ex 2, feito por Vitor Limeira
+//ex 3, feito por Felipe Ramalho
+//ex 4, feito por Mateus Magal
